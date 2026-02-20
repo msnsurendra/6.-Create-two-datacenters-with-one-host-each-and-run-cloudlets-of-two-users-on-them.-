@@ -110,7 +110,5 @@ Cloudlets from different users were successfully executed across two datacenters
 This experiment verifies that CloudSim accurately simulates multi-user and multi-datacenter environments. It demonstrates how distributed infrastructure handles workloads and how resources are allocated efficiently in cloud systems.
 
 ---
-
----
-
-## Execution Formula
+ 
+ 
